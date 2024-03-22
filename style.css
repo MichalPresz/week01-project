@@ -1,16 +1,21 @@
 
 .feature {
-    height: 100vh;
+    height: 130vh;
+    position: relative;
     background-position: center;
     background-image: url("https://i.redd.it/periodic-table-of-the-elements-origins-of-the-elements-v0-zolyacwvw0v91.png?s=5f1352e1fad61d99951c3773420c1be29094450a");
     background-size: contain;
   }
 footer {
-    color: blue;
+    color: rgb(195, 195, 214);
 }
 a{
-    color: rgb(167, 122, 192);
+    color: rgb(227, 220, 230);
 }
 h1{
     font-style: italic;
+    color: aquamarine;
 }
+  body{
+    background-color: blue;
+  }
