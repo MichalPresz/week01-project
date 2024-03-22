@@ -1,12 +1,10 @@
 
 .feature {
     height: 100vh;
-    background-image: url("https://i.redd.it/periodic-table-of-the-elements-origins-of-the-elements-v0-zolyacwvw0v91.png?s=5f1352e1fad61d99951c3773420c1be29094450a");
     background-position: center;
+    background-image: url("https://i.redd.it/periodic-table-of-the-elements-origins-of-the-elements-v0-zolyacwvw0v91.png?s=5f1352e1fad61d99951c3773420c1be29094450a");
     background-size: contain;
-    color: purple;
   }
-  
 footer {
     color: blue;
 }
