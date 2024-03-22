@@ -1,3 +1,14 @@
 *{
     background-color: blanchedalmond;
 }
+.feature {
+    height: 100vh;
+    background-image: url("https://i.ebayimg.com/images/g/GTQAAOSwHlxelErZ/s-l1600.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+  .title {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+  }
