@@ -6,8 +6,8 @@ if (Home == "yes")
  {
   alert("Okay, let`s get to work!");
  }
-else (Home == "no")
-{
+else if (Home == "no") {
+  
   alert("Okay, maybe next time!");
 } 
   
